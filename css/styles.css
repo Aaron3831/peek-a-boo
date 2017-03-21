@@ -1,3 +1,11 @@
+h1 {
+  display: none;
+}
+
+.fadeout {
+  font-weight: bold;
+}
+
 #walrus-showing {
   display: none;
 }
@@ -11,11 +19,6 @@
   text-decoration: underline;
 }
 
-p {
-  cursor: pointer;
+.putBack {
   color: #0088cc;
-}
-
-p:hover {
-  text-decoration: underline;
 }
